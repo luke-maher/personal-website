@@ -1,0 +1,5 @@
+baseURL = 'https://lukemaher.dev/'
+languageCode = 'en-us'
+title = "Luke Maher"
+
+theme = "m10c"
